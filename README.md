@@ -4,9 +4,7 @@
 
 Este es una aplicación de contador
 
-A new Flutter project.
+## Documentación Flutter
 
-### Documentación Flutter
-
-Aquí esta la documentacion de Flutter.
-[online documentation](https://flutter.dev/docs).
+Aquí esta la documentación de Flutter.
+[Flutter Docs](https://flutter.dev/docs).
